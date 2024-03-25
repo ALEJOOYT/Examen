@@ -1,0 +1,24 @@
+.color-celeste-left{
+    padding: 50px;
+    background-color: aqua;
+}
+
+.color-violeta-right{
+    padding: 50px;
+    background-color:blueviolet;
+}
+
+.color-naranja-left{
+    padding: 50px;
+    background-color:chocolate;
+}
+
+.color-verde-right{
+    padding: 50px;
+    background-color:green;
+}
+
+.btn-start{
+    font-size: 15px;
+    background-color: tomato;
+}
